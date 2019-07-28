@@ -14,7 +14,7 @@ After using this repository, do the following things:
 [![numpydoc Docstring Style](https://img.shields.io/badge/docstring-numpydoc-blue.svg)](https://numpydoc.readthedocs.io/en/latest/format.html#docstring-standard)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-blue.svg)](https://pre-commit.com/)
 
-This repository is an implementation of the paper [Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method (Riedmiller, 2005)](/paper.pdf).
+This repository is an implementation of the paper [TODO PAPER AND AUTHOR](/paper.pdf).
 
 **Please ⭐ this repository if you found it useful!**
 
